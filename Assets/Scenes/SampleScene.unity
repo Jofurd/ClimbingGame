@@ -266,7 +266,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  speed: 640
+  speed: 639
   jumpHeight: 10
 --- !u!1 &508902567
 GameObject:

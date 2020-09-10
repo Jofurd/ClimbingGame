@@ -57,11 +57,11 @@ public class Player : MonoBehaviour
             //animator.SetFloat("moveX", vel.x);
             //animator.SetFloat("moveY", vel.y);
             //animator.SetBool("moving", true);
-        }
+        }/*
         else
         {
             //animator.SetBool("moving", false);
-        }
+        }*/
     }
 
     void MoveCharacter()
