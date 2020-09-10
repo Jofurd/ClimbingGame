@@ -1,0 +1,2213 @@
+fileFormatVersion: 2
+guid: 02011396ab5983649aa090022a3f3df8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6352595895586205592
+    second: pixel_platform_01_tileset_final_0
+  - first:
+      213: -7137675019307091914
+    second: pixel_platform_01_tileset_final_1
+  - first:
+      213: 30260314188516088
+    second: pixel_platform_01_tileset_final_2
+  - first:
+      213: -5492571664736972570
+    second: pixel_platform_01_tileset_final_3
+  - first:
+      213: 2582427519927352998
+    second: pixel_platform_01_tileset_final_4
+  - first:
+      213: -3132337949599265073
+    second: pixel_platform_01_tileset_final_5
+  - first:
+      213: -7958652974803473560
+    second: pixel_platform_01_tileset_final_6
+  - first:
+      213: -4943759326731405027
+    second: pixel_platform_01_tileset_final_7
+  - first:
+      213: 7409221497915307672
+    second: pixel_platform_01_tileset_final_8
+  - first:
+      213: -2282833872635373203
+    second: pixel_platform_01_tileset_final_9
+  - first:
+      213: -2780205793302976166
+    second: pixel_platform_01_tileset_final_10
+  - first:
+      213: 8723558844268397681
+    second: pixel_platform_01_tileset_final_11
+  - first:
+      213: -4108108871503309456
+    second: pixel_platform_01_tileset_final_12
+  - first:
+      213: -8210334151060452190
+    second: pixel_platform_01_tileset_final_13
+  - first:
+      213: 4638947976047426254
+    second: pixel_platform_01_tileset_final_14
+  - first:
+      213: -4323365408064848846
+    second: pixel_platform_01_tileset_final_15
+  - first:
+      213: -8839878006556445239
+    second: pixel_platform_01_tileset_final_16
+  - first:
+      213: -8706256875608537453
+    second: pixel_platform_01_tileset_final_17
+  - first:
+      213: -6113787320976237464
+    second: pixel_platform_01_tileset_final_18
+  - first:
+      213: -3717493586136416699
+    second: pixel_platform_01_tileset_final_19
+  - first:
+      213: -65867476919337019
+    second: pixel_platform_01_tileset_final_20
+  - first:
+      213: -3775633302578157477
+    second: pixel_platform_01_tileset_final_21
+  - first:
+      213: -6673264691620973089
+    second: pixel_platform_01_tileset_final_22
+  - first:
+      213: -8245756292577882810
+    second: pixel_platform_01_tileset_final_23
+  - first:
+      213: -2942678811584674046
+    second: pixel_platform_01_tileset_final_24
+  - first:
+      213: 6425122254271453340
+    second: pixel_platform_01_tileset_final_25
+  - first:
+      213: -2796898793859760562
+    second: pixel_platform_01_tileset_final_26
+  - first:
+      213: 1511958639537677905
+    second: pixel_platform_01_tileset_final_27
+  - first:
+      213: -6859653408784825817
+    second: pixel_platform_01_tileset_final_28
+  - first:
+      213: 1554953952023614293
+    second: pixel_platform_01_tileset_final_29
+  - first:
+      213: -2743088005406171030
+    second: pixel_platform_01_tileset_final_30
+  - first:
+      213: 4102073624440793699
+    second: pixel_platform_01_tileset_final_31
+  - first:
+      213: 5812037019896191674
+    second: pixel_platform_01_tileset_final_32
+  - first:
+      213: -613078449463053378
+    second: pixel_platform_01_tileset_final_33
+  - first:
+      213: -7035155888229200946
+    second: pixel_platform_01_tileset_final_34
+  - first:
+      213: 4158795884419414736
+    second: pixel_platform_01_tileset_final_35
+  - first:
+      213: -7051723163470440380
+    second: pixel_platform_01_tileset_final_36
+  - first:
+      213: 7794568288752881563
+    second: pixel_platform_01_tileset_final_37
+  - first:
+      213: 7428554201042826271
+    second: pixel_platform_01_tileset_final_38
+  - first:
+      213: -617115579573734391
+    second: pixel_platform_01_tileset_final_39
+  - first:
+      213: -3844923161495795488
+    second: pixel_platform_01_tileset_final_40
+  - first:
+      213: 3744050755085665561
+    second: pixel_platform_01_tileset_final_41
+  - first:
+      213: -1863693231432228283
+    second: pixel_platform_01_tileset_final_42
+  - first:
+      213: -7146073539704784106
+    second: pixel_platform_01_tileset_final_43
+  - first:
+      213: -3811206588896553821
+    second: pixel_platform_01_tileset_final_44
+  - first:
+      213: 3644284650827000161
+    second: pixel_platform_01_tileset_final_45
+  - first:
+      213: -3155468473973498119
+    second: pixel_platform_01_tileset_final_46
+  - first:
+      213: 4192502778359737857
+    second: pixel_platform_01_tileset_final_47
+  - first:
+      213: 6550042562991323698
+    second: pixel_platform_01_tileset_final_48
+  - first:
+      213: -5342578572044631996
+    second: pixel_platform_01_tileset_final_49
+  - first:
+      213: -7904005814551323032
+    second: pixel_platform_01_tileset_final_50
+  - first:
+      213: 828385851498003364
+    second: pixel_platform_01_tileset_final_51
+  - first:
+      213: 1968396340125303432
+    second: pixel_platform_01_tileset_final_52
+  - first:
+      213: 5191299645123628585
+    second: pixel_platform_01_tileset_final_53
+  - first:
+      213: 887900799530606819
+    second: pixel_platform_01_tileset_final_54
+  - first:
+      213: 1741320216310543710
+    second: pixel_platform_01_tileset_final_55
+  - first:
+      213: -242852578512059970
+    second: pixel_platform_01_tileset_final_56
+  - first:
+      213: 9110221327208664074
+    second: pixel_platform_01_tileset_final_57
+  - first:
+      213: 3731910181336223693
+    second: pixel_platform_01_tileset_final_58
+  - first:
+      213: -696981197369575358
+    second: pixel_platform_01_tileset_final_59
+  - first:
+      213: -7538934507115643953
+    second: pixel_platform_01_tileset_final_60
+  - first:
+      213: -6820413335006725985
+    second: pixel_platform_01_tileset_final_61
+  - first:
+      213: 9100401393080870113
+    second: pixel_platform_01_tileset_final_62
+  - first:
+      213: -4003621436663588497
+    second: pixel_platform_01_tileset_final_63
+  - first:
+      213: -7241770065790154066
+    second: pixel_platform_01_tileset_final_64
+  - first:
+      213: -7948299932024763206
+    second: pixel_platform_01_tileset_final_65
+  - first:
+      213: 332639279539183261
+    second: pixel_platform_01_tileset_final_66
+  - first:
+      213: 4281947509552403946
+    second: pixel_platform_01_tileset_final_67
+  - first:
+      213: -5392387702446750319
+    second: pixel_platform_01_tileset_final_68
+  - first:
+      213: -7978177793978514300
+    second: pixel_platform_01_tileset_final_69
+  - first:
+      213: -6213359830816283923
+    second: pixel_platform_01_tileset_final_70
+  - first:
+      213: 8583384140448950511
+    second: pixel_platform_01_tileset_final_71
+  - first:
+      213: -432179962115182315
+    second: pixel_platform_01_tileset_final_72
+  - first:
+      213: 3593134625384199327
+    second: pixel_platform_01_tileset_final_73
+  - first:
+      213: 5451716591983700368
+    second: pixel_platform_01_tileset_final_74
+  - first:
+      213: -5454429711097591442
+    second: pixel_platform_01_tileset_final_75
+  - first:
+      213: -2541728903760382103
+    second: pixel_platform_01_tileset_final_76
+  - first:
+      213: 4772583427054854265
+    second: pixel_platform_01_tileset_final_77
+  - first:
+      213: 7935241637788212148
+    second: pixel_platform_01_tileset_final_78
+  - first:
+      213: -5603666351223575054
+    second: pixel_platform_01_tileset_final_79
+  - first:
+      213: 7065164959268111526
+    second: pixel_platform_01_tileset_final_80
+  - first:
+      213: -5930577258857627311
+    second: pixel_platform_01_tileset_final_81
+  - first:
+      213: -7818028075233820696
+    second: pixel_platform_01_tileset_final_82
+  - first:
+      213: 2431830302669323171
+    second: pixel_platform_01_tileset_final_83
+  - first:
+      213: 808708311955822864
+    second: pixel_platform_01_tileset_final_84
+  - first:
+      213: 8644560909998648108
+    second: pixel_platform_01_tileset_final_85
+  - first:
+      213: -6461345250723795639
+    second: pixel_platform_01_tileset_final_86
+  - first:
+      213: -7255922788645667858
+    second: pixel_platform_01_tileset_final_87
+  - first:
+      213: -1073216517404359559
+    second: pixel_platform_01_tileset_final_88
+  - first:
+      213: -1838615742145247258
+    second: pixel_platform_01_tileset_final_89
+  - first:
+      213: 6734215400932436953
+    second: pixel_platform_01_tileset_final_90
+  - first:
+      213: 3108299816452761707
+    second: pixel_platform_01_tileset_final_91
+  - first:
+      213: 3118844569305631211
+    second: pixel_platform_01_tileset_final_92
+  - first:
+      213: -2626513201097456937
+    second: pixel_platform_01_tileset_final_93
+  - first:
+      213: 1661163852481085541
+    second: pixel_platform_01_tileset_final_94
+  - first:
+      213: -3059892614187905204
+    second: pixel_platform_01_tileset_final_95
+  - first:
+      213: 5884364969622471518
+    second: pixel_platform_01_tileset_final_96
+  - first:
+      213: 5886280960476174708
+    second: pixel_platform_01_tileset_final_97
+  - first:
+      213: -7130311586955292975
+    second: pixel_platform_01_tileset_final_98
+  - first:
+      213: -5520440215662216769
+    second: pixel_platform_01_tileset_final_99
+  - first:
+      213: 3444105982202861842
+    second: pixel_platform_01_tileset_final_100
+  - first:
+      213: 4326437043005252100
+    second: pixel_platform_01_tileset_final_101
+  - first:
+      213: 7304767144195064275
+    second: pixel_platform_01_tileset_final_102
+  - first:
+      213: -1274989707752428824
+    second: pixel_platform_01_tileset_final_103
+  - first:
+      213: 7906553451258480052
+    second: pixel_platform_01_tileset_final_104
+  - first:
+      213: 6409405088731261657
+    second: pixel_platform_01_tileset_final_105
+  - first:
+      213: -6123315182725291224
+    second: pixel_platform_01_tileset_final_106
+  - first:
+      213: 793973066477335888
+    second: pixel_platform_01_tileset_final_107
+  - first:
+      213: -5136084507092169556
+    second: pixel_platform_01_tileset_final_108
+  - first:
+      213: -2604009711617002126
+    second: pixel_platform_01_tileset_final_109
+  - first:
+      213: -9086786098099771178
+    second: pixel_platform_01_tileset_final_110
+  - first:
+      213: 8429371873789522967
+    second: pixel_platform_01_tileset_final_111
+  - first:
+      213: -2123650627851071437
+    second: pixel_platform_01_tileset_final_112
+  - first:
+      213: -4997922248578910197
+    second: pixel_platform_01_tileset_final_113
+  - first:
+      213: 1248067444465622972
+    second: pixel_platform_01_tileset_final_114
+  - first:
+      213: -5208518311600437923
+    second: pixel_platform_01_tileset_final_115
+  - first:
+      213: -2933766122026753682
+    second: pixel_platform_01_tileset_final_116
+  - first:
+      213: 4493746757433351460
+    second: pixel_platform_01_tileset_final_117
+  - first:
+      213: -7674251598578788671
+    second: pixel_platform_01_tileset_final_118
+  - first:
+      213: 4838779745664099396
+    second: pixel_platform_01_tileset_final_119
+  - first:
+      213: 3991325252886669793
+    second: pixel_platform_01_tileset_final_120
+  - first:
+      213: 6924823902060247182
+    second: pixel_platform_01_tileset_final_121
+  - first:
+      213: 686945316787141158
+    second: pixel_platform_01_tileset_final_122
+  - first:
+      213: 1334123372886821397
+    second: pixel_platform_01_tileset_final_123
+  - first:
+      213: 8919206326779152775
+    second: pixel_platform_01_tileset_final_124
+  - first:
+      213: 31457952515173051
+    second: pixel_platform_01_tileset_final_125
+  - first:
+      213: 3141965409573751018
+    second: pixel_platform_01_tileset_final_126
+  - first:
+      213: -7294654434956256361
+    second: pixel_platform_01_tileset_final_127
+  - first:
+      213: -7237256088079965022
+    second: pixel_platform_01_tileset_final_128
+  - first:
+      213: 363334655129515632
+    second: pixel_platform_01_tileset_final_129
+  - first:
+      213: 7373522171730087338
+    second: pixel_platform_01_tileset_final_130
+  - first:
+      213: -1355596860604199403
+    second: pixel_platform_01_tileset_final_131
+  - first:
+      213: -6124269451537760956
+    second: pixel_platform_01_tileset_final_132
+  - first:
+      213: -175133305668407484
+    second: pixel_platform_01_tileset_final_133
+  - first:
+      213: -6170271861326545482
+    second: pixel_platform_01_tileset_final_134
+  - first:
+      213: 1604937589286924564
+    second: pixel_platform_01_tileset_final_135
+  - first:
+      213: -4142447244887861493
+    second: pixel_platform_01_tileset_final_136
+  - first:
+      213: 4077886267337769065
+    second: pixel_platform_01_tileset_final_137
+  - first:
+      213: -3498728959166663233
+    second: pixel_platform_01_tileset_final_138
+  - first:
+      213: 3952602740977031654
+    second: pixel_platform_01_tileset_final_139
+  - first:
+      213: 8408162955362112459
+    second: pixel_platform_01_tileset_final_140
+  - first:
+      213: 8733889734259263900
+    second: pixel_platform_01_tileset_final_141
+  - first:
+      213: 1475303830366696434
+    second: pixel_platform_01_tileset_final_142
+  - first:
+      213: 7459920693000607334
+    second: pixel_platform_01_tileset_final_143
+  - first:
+      213: 7886096831857115590
+    second: pixel_platform_01_tileset_final_144
+  - first:
+      213: 6506427367221001977
+    second: pixel_platform_01_tileset_final_145
+  - first:
+      213: 4708375821722385814
+    second: pixel_platform_01_tileset_final_146
+  - first:
+      213: 1843780730316553988
+    second: pixel_platform_01_tileset_final_147
+  - first:
+      213: 3202844556100160167
+    second: pixel_platform_01_tileset_final_148
+  - first:
+      213: -3734028484944955135
+    second: pixel_platform_01_tileset_final_149
+  - first:
+      213: 9153598107726985543
+    second: pixel_platform_01_tileset_final_150
+  - first:
+      213: 5605593836655217019
+    second: pixel_platform_01_tileset_final_151
+  - first:
+      213: 1612718932714580289
+    second: pixel_platform_01_tileset_final_152
+  - first:
+      213: 8048602306696614552
+    second: pixel_platform_01_tileset_final_153
+  - first:
+      213: 3872639476276376406
+    second: pixel_platform_01_tileset_final_154
+  - first:
+      213: -630603970509004416
+    second: pixel_platform_01_tileset_final_155
+  - first:
+      213: 3284854024599496884
+    second: pixel_platform_01_tileset_final_156
+  - first:
+      213: 396722145579234416
+    second: pixel_platform_01_tileset_final_157
+  - first:
+      213: 5908531567681968661
+    second: pixel_platform_01_tileset_final_158
+  - first:
+      213: -2778588778898127813
+    second: pixel_platform_01_tileset_final_159
+  - first:
+      213: 7960297509783075201
+    second: pixel_platform_01_tileset_final_160
+  - first:
+      213: 8788216032096560248
+    second: pixel_platform_01_tileset_final_161
+  - first:
+      213: 1267352080875794646
+    second: pixel_platform_01_tileset_final_162
+  - first:
+      213: -5878359394396041626
+    second: pixel_platform_01_tileset_final_163
+  - first:
+      213: 864833017330730508
+    second: pixel_platform_01_tileset_final_164
+  - first:
+      213: -1512362372599556384
+    second: pixel_platform_01_tileset_final_165
+  - first:
+      213: -4261084134710325315
+    second: pixel_platform_01_tileset_final_166
+  - first:
+      213: -961966606624020185
+    second: pixel_platform_01_tileset_final_167
+  - first:
+      213: -562088768324551364
+    second: pixel_platform_01_tileset_final_168
+  - first:
+      213: 4316634330494018907
+    second: pixel_platform_01_tileset_final_169
+  - first:
+      213: 333554861046661179
+    second: pixel_platform_01_tileset_final_170
+  - first:
+      213: -609573663480835608
+    second: pixel_platform_01_tileset_final_171
+  - first:
+      213: 6892454852355604909
+    second: pixel_platform_01_tileset_final_172
+  - first:
+      213: 4313997110411721512
+    second: pixel_platform_01_tileset_final_173
+  - first:
+      213: -4046471246785294688
+    second: pixel_platform_01_tileset_final_174
+  - first:
+      213: -1464259326095397601
+    second: pixel_platform_01_tileset_final_175
+  - first:
+      213: -5837892755066685993
+    second: pixel_platform_01_tileset_final_176
+  - first:
+      213: -819256987066460171
+    second: pixel_platform_01_tileset_final_177
+  - first:
+      213: 7201869621647796848
+    second: pixel_platform_01_tileset_final_178
+  - first:
+      213: -813707520533358421
+    second: pixel_platform_01_tileset_final_179
+  - first:
+      213: -5751287200687137745
+    second: pixel_platform_01_tileset_final_180
+  - first:
+      213: -292917272910851455
+    second: pixel_platform_01_tileset_final_181
+  - first:
+      213: -1068195452402559387
+    second: pixel_platform_01_tileset_final_182
+  - first:
+      213: 5430803348458626478
+    second: pixel_platform_01_tileset_final_183
+  - first:
+      213: 5257473467188343446
+    second: pixel_platform_01_tileset_final_184
+  - first:
+      213: -6936951971462696124
+    second: pixel_platform_01_tileset_final_185
+  - first:
+      213: 5666502742029510889
+    second: pixel_platform_01_tileset_final_186
+  - first:
+      213: -8472089311047156377
+    second: pixel_platform_01_tileset_final_187
+  - first:
+      213: 3785198605946998033
+    second: pixel_platform_01_tileset_final_188
+  - first:
+      213: 6786914236997376206
+    second: pixel_platform_01_tileset_final_189
+  - first:
+      213: -9143214292622833044
+    second: pixel_platform_01_tileset_final_190
+  - first:
+      213: 3932531139192119576
+    second: pixel_platform_01_tileset_final_191
+  - first:
+      213: 8845434026747957795
+    second: pixel_platform_01_tileset_final_192
+  - first:
+      213: -8296860931077191404
+    second: pixel_platform_01_tileset_final_193
+  - first:
+      213: -2367220192275247181
+    second: pixel_platform_01_tileset_final_194
+  - first:
+      213: 2154324051174857296
+    second: pixel_platform_01_tileset_final_195
+  - first:
+      213: -71963019080189359
+    second: pixel_platform_01_tileset_final_196
+  - first:
+      213: -133314771235563526
+    second: pixel_platform_01_tileset_final_197
+  - first:
+      213: 2022157474632949293
+    second: pixel_platform_01_tileset_final_198
+  - first:
+      213: 8617672422832613919
+    second: pixel_platform_01_tileset_final_199
+  - first:
+      213: 8181779746517858467
+    second: pixel_platform_01_tileset_final_200
+  - first:
+      213: -7392055277748854007
+    second: pixel_platform_01_tileset_final_201
+  - first:
+      213: -5786442961522155560
+    second: pixel_platform_01_tileset_final_202
+  - first:
+      213: -7655561155325223722
+    second: pixel_platform_01_tileset_final_203
+  - first:
+      213: 6668003904088915831
+    second: pixel_platform_01_tileset_final_204
+  - first:
+      213: 6916271921214372564
+    second: pixel_platform_01_tileset_final_205
+  - first:
+      213: -8648001316496236740
+    second: pixel_platform_01_tileset_final_206
+  - first:
+      213: 1238024655159492948
+    second: pixel_platform_01_tileset_final_207
+  - first:
+      213: 7080056060994130177
+    second: pixel_platform_01_tileset_final_208
+  - first:
+      213: 7708527428077011916
+    second: pixel_platform_01_tileset_final_209
+  - first:
+      213: -1412059137371246333
+    second: pixel_platform_01_tileset_final_210
+  - first:
+      213: -8691327814956122129
+    second: pixel_platform_01_tileset_final_211
+  - first:
+      213: -8692376404108558190
+    second: pixel_platform_01_tileset_final_212
+  - first:
+      213: -3664190700349443940
+    second: pixel_platform_01_tileset_final_213
+  - first:
+      213: -6038428658973005953
+    second: pixel_platform_01_tileset_final_214
+  - first:
+      213: -4596225730538736228
+    second: pixel_platform_01_tileset_final_215
+  - first:
+      213: -1795126843203468497
+    second: pixel_platform_01_tileset_final_216
+  - first:
+      213: 4893301802799701826
+    second: pixel_platform_01_tileset_final_217
+  - first:
+      213: 5214177355227670146
+    second: pixel_platform_01_tileset_final_218
+  - first:
+      213: -4500651267309545622
+    second: pixel_platform_01_tileset_final_219
+  - first:
+      213: 4997457102898878635
+    second: pixel_platform_01_tileset_final_220
+  - first:
+      213: 3916320424274068923
+    second: pixel_platform_01_tileset_final_221
+  - first:
+      213: 5282672890813926988
+    second: pixel_platform_01_tileset_final_222
+  - first:
+      213: -752916458379754914
+    second: pixel_platform_01_tileset_final_223
+  - first:
+      213: 7285249940398410651
+    second: pixel_platform_01_tileset_final_224
+  - first:
+      213: -853340522523056483
+    second: pixel_platform_01_tileset_final_225
+  - first:
+      213: 7589176296781852089
+    second: pixel_platform_01_tileset_final_226
+  - first:
+      213: -2083565427783396693
+    second: pixel_platform_01_tileset_final_227
+  - first:
+      213: 4965549312917316878
+    second: pixel_platform_01_tileset_final_228
+  - first:
+      213: -2126811421813842936
+    second: pixel_platform_01_tileset_final_229
+  - first:
+      213: 1232602552614270564
+    second: pixel_platform_01_tileset_final_230
+  - first:
+      213: -6768955910650318569
+    second: pixel_platform_01_tileset_final_231
+  - first:
+      213: -4004427041805656087
+    second: pixel_platform_01_tileset_final_232
+  - first:
+      213: 6935301137064754292
+    second: pixel_platform_01_tileset_final_233
+  - first:
+      213: 6226229995257220188
+    second: pixel_platform_01_tileset_final_234
+  - first:
+      213: 2792617350801025938
+    second: pixel_platform_01_tileset_final_235
+  - first:
+      213: 8076080617248989222
+    second: pixel_platform_01_tileset_final_236
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f250e3f44f82850800000000000000
+      internalID: 6352595895586205592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63875001362e1fc90800000000000000
+      internalID: -7137675019307091914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa8ffd68918b6000800000000000000
+      internalID: 30260314188516088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e01afbfb2776c3b0800000000000000
+      internalID: -5492571664736972570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae7677a520a6d320800000000000000
+      internalID: 2582427519927352998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce09ad0b33b784d0800000000000000
+      internalID: -3132337949599265073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bab32494f2d8190800000000000000
+      internalID: -7958652974803473560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d197623e51d346bb0800000000000000
+      internalID: -4943759326731405027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896fd6552b7d2d660800000000000000
+      internalID: 7409221497915307672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69d65410beb150e0800000000000000
+      internalID: -2282833872635373203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5961b7af89ba69d0800000000000000
+      internalID: -2780205793302976166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174c5d9ac8e401970800000000000000
+      internalID: 8723558844268397681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0751a6f3fb01df6c0800000000000000
+      internalID: -4108108871503309456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac88cef6980f0e80800000000000000
+      internalID: -8210334151060452190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaf2d32b9ad06040800000000000000
+      internalID: 4638947976047426254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c351a41125004c0800000000000000
+      internalID: -4323365408064848846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c53a69e9c1725580800000000000000
+      internalID: -8839878006556445239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3960d06df792d2780800000000000000
+      internalID: -8706256875608537453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c9ce4e2d6772ba0800000000000000
+      internalID: -6113787320976237464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ebb8f874fc86cc0800000000000000
+      internalID: -3717493586136416699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfb8f3f0edf51ff0800000000000000
+      internalID: -65867476919337019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58a1b5f3814a9bc0800000000000000
+      internalID: -3775633302578157477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd576c39e1dc363a0800000000000000
+      internalID: -6673264691620973089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d047cf650319d80800000000000000
+      internalID: -8245756292577882810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2074d6b36318927d0800000000000000
+      internalID: -2942678811584674046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c989e4406ae9a2950800000000000000
+      internalID: 6425122254271453340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e35479d5b6f29d0800000000000000
+      internalID: -2796898793859760562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156e9b83f5e8bf410800000000000000
+      internalID: 1511958639537677905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7224517919d9dc0a0800000000000000
+      internalID: -6859653408784825817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5531570816e449510800000000000000
+      internalID: 1554953952023614293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60612a1ef79ee9d0800000000000000
+      internalID: -2743088005406171030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aea4b4a3e7de830800000000000000
+      internalID: 4102073624440793699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba155840e088a050800000000000000
+      internalID: 5812037019896191674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3be400668ed77f0800000000000000
+      internalID: -613078449463053378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbc9965efa1e5e90800000000000000
+      internalID: -7035155888229200946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dafc2892d207b930800000000000000
+      internalID: 4158795884419414736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44853faf42f332e90800000000000000
+      internalID: -7051723163470440380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fc3acaf8edb2c60800000000000000
+      internalID: 7794568288752881563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14b4eb00b6871760800000000000000
+      internalID: 7428554201042826271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904f52666a09f67f0800000000000000
+      internalID: -617115579573734391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_40
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e80f5281c614aac0800000000000000
+      internalID: -3844923161495795488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9150aed235a85f330800000000000000
+      internalID: 3744050755085665561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542ae2a51e4d226e0800000000000000
+      internalID: -1863693231432228283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bf3172afb04dc90800000000000000
+      internalID: -7146073539704784106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_44
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4513fcccfdb1bc0800000000000000
+      internalID: -3811206588896553821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169a3f8e499139230800000000000000
+      internalID: 3644284650827000161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_46
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe9ddc24268534d0800000000000000
+      internalID: -3155468473973498119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e68f76013ce2a30800000000000000
+      internalID: 4192502778359737857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a79c6e10d66ea50800000000000000
+      internalID: 6550042562991323698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4408aac48195bd5b0800000000000000
+      internalID: -5342578572044631996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86edb01c6945f4290800000000000000
+      internalID: -7904005814551323032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab7f7ffa840f7b00800000000000000
+      internalID: 828385851498003364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8820956da06215b10800000000000000
+      internalID: 1968396340125303432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e8436c5833b0840800000000000000
+      internalID: 5191299645123628585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0aec7a215725c00800000000000000
+      internalID: 887900799530606819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e557565c2896a2810800000000000000
+      internalID: 1741320216310543710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb14005ddd631acf0800000000000000
+      internalID: -242852578512059970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cc57177020e6e70800000000000000
+      internalID: 9110221327208664074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf853499886ac330800000000000000
+      internalID: 3731910181336223693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248f8a33b43d356f0800000000000000
+      internalID: -696981197369575358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbff6e3203506790800000000000000
+      internalID: -7538934507115643953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98369935360951a0800000000000000
+      internalID: -6820413335006725985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e42e0cd9de1b4e70800000000000000
+      internalID: 9100401393080870113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f691784f3874078c0800000000000000
+      internalID: -4003621436663588497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_64
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa45836e70108b90800000000000000
+      internalID: -7241770065790154066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel_platform_01_tileset_final_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc076fd257f1b190800000000000000
+      internalID: -7948299932024763206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
