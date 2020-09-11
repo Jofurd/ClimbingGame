@@ -15,6 +15,8 @@ public enum PlayerState
 public class Player : MonoBehaviour
 {
     public PlayerState currentState;
+    public float drag;
+    public float dragThreshold;
     public float speed;
     public float jumpHeight;
     private Rigidbody2D myRigidBody;
@@ -46,6 +48,21 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (myRigidBody.velocity.x > 0)
+        {
+            Debug.Log(1);
+            myRigidBody.AddForce(new Vector2(-drag * Time.deltaTime, 0));
+        }
+        else if (myRigidBody.velocity.x < 0)
+        {
+            Debug.Log(2);
+            myRigidBody.AddForce(new Vector2(drag * Time.deltaTime, 0));
+        }
+
+        if (Mathf.Abs(myRigidBody.velocity.x) < dragThreshold) { 
+            Debug.Log(3);
+            myRigidBody.velocity = new Vector2(0, myRigidBody.velocity.y);
+        }
         updateAnimationAndMove();
     }
 
@@ -54,29 +71,12 @@ public class Player : MonoBehaviour
         if (vel != Vector3.zero)
         {
             MoveCharacter();
-            //animator.SetFloat("moveX", vel.x);
-            //animator.SetFloat("moveY", vel.y);
-            //animator.SetBool("moving", true);
-        }/*
-        else
-        {
-            //animator.SetBool("moving", false);
-        }*/
+        }
     }
 
     void MoveCharacter()
     {
         myRigidBody.AddForce(new Vector2(vel.x*speed*Time.deltaTime, 0));
-        
     }
 
-    private IEnumerator KnockCo(float knockTime)
-    {
-        if (myRigidBody != null)
-        {
-            yield return new WaitForSeconds(knockTime);
-            myRigidBody.velocity = Vector2.zero;
-            currentState = PlayerState.idle;
-        }
-    }
 }
